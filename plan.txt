@@ -1,0 +1,47 @@
+git-cheatsheet/
+│
+├── README.md
+│
+├── setup/
+│   ├── install.md
+│   ├── ssh-setup.md
+│   └── config.md
+│
+├── basic/
+│   ├── init-clone.md
+│   ├── add-commit.md
+│   ├── status-log.md
+│   └── diff.md
+│
+├── branching/
+│   ├── create-branch.md
+│   ├── switch-checkout.md
+│   ├── delete-branch.md
+│   └── merge.md
+│
+├── remote/
+│   ├── push.md
+│   ├── pull.md
+│   ├── fetch.md
+│   └── upstream.md
+│
+├── advanced/
+│   ├── rebase.md
+│   ├── stash.md
+│   ├── cherry-pick.md
+│   └── reset-revert.md
+│
+├── workflows/
+│   ├── feature-branch.md
+│   ├── gitflow.md
+│   └── hotfix.md
+│
+├── troubleshooting/
+│   ├── merge-conflicts.md
+│   ├── permission-errors.md
+│   ├── detached-head.md
+│   └── undo-mistakes.md
+│
+└── templates/
+    ├── commit-message.md
+    └── pr-template.md
